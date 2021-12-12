@@ -1,0 +1,19 @@
+{
+  "name": "Green",
+  "symbol": "",
+  "image": "green.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "green.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FjoPzpHDFUYZzPZe78iHuenfb5dt6BQMC1USGpaxxrQK",
+        "share": 100
+      }
+    ]
+  }
+}

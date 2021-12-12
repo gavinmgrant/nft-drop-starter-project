@@ -1,6 +1,12 @@
 .machine-container {
   display: flex;
   flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.machine-container p {
+  margin: 0 0 8px 0;
 }
 
 .gif-container {
@@ -14,7 +20,7 @@
   grid-gap: 1.5rem;
   justify-items: center;
   margin: 0;
-  padding: 20px 0 20px 0;
+  padding: 8px 0 24px 0;
 }
 
 .gif-grid .gif-item {
@@ -30,4 +36,11 @@
   height: 200px;
   border-radius: 10px;
   object-fit: cover;
+}
+
+.gif-name {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin: 8px 0;
 }

@@ -1,0 +1,19 @@
+{
+  "name": "Blue",
+  "symbol": "",
+  "image": "blue.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "blue.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FjoPzpHDFUYZzPZe78iHuenfb5dt6BQMC1USGpaxxrQK",
+        "share": 100
+      }
+    ]
+  }
+}

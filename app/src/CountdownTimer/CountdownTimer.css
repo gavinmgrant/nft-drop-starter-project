@@ -1,6 +1,8 @@
 .timer-container .timer-header {
-  font-size: 20px;
+  font-size: 24px;
   font-weight: bold;
+  font-family: 'Song Myung', serif;
+  color: #ffac1c;
 }
 
 .timer-container .timer-value {

@@ -1,0 +1,19 @@
+{
+  "name": "Red",
+  "symbol": "",
+  "image": "red.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "red.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FjoPzpHDFUYZzPZe78iHuenfb5dt6BQMC1USGpaxxrQK",
+        "share": 100
+      }
+    ]
+  }
+}
